@@ -1,0 +1,520 @@
+.menu{
+    list-style: none;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: right;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(51, 50, 50);
+    padding: 14px;
+    width: 100%;
+    height: 50px;
+    top: 0;
+    z-index: 999;
+    position: fixed;
+}
+body{
+    margin: 0%;
+}
+.carrot{
+    display: flex;
+}
+li{
+    padding: 10px;
+    margin-right: 47px;
+}
+.little{
+    background-color: green;
+    height: 30px;
+    border-radius: 20px;
+    width: 8%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 1px solid green;
+}.flexcontainer{
+    margin-left: 10%;
+}
+.flexcontainer> div{
+    background-color: #f1f1f1;
+    margin: 10px;
+    height: 80%;
+    width: 100%;
+    padding: 20px;
+}
+.large{
+    background-color: green;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    align-items: center;
+    width: 8%;
+    border: 1px solid green;
+}
+.big{
+    background-color: green;
+    border-radius: 7px;
+    margin-left: 8px;
+}
+.small{
+    background-color: green;
+    border-radius: 7px;
+    margin-right: 8px;
+}
+nav{
+    display: flex;
+}
+.cod{
+    color: black;
+}
+.firm{
+    margin-left: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23PX;
+}
+h4{
+    margin-left: 10%;
+    font-size: 26PX;
+    color: white;
+    padding-top: 10%;
+}
+h1{
+    margin-left: 10%;
+    font-size: 60PX;
+}
+.ship{
+    display: flex;
+    list-style: none;
+    margin-left: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.dot{
+    color:rgb(233, 66, 5);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    display: flex;
+}
+h3{
+    font-size: 40px;
+    font-family:'Arial Narrow', Arial, sans-serif ;
+}
+h5{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    color: orange;
+}
+p{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+section{
+    height: 400%;
+    margin-left: 10%;
+    margin-top: 4%;
+    display: flex;
+}
+.gap{
+    height: 50px;
+    border: 1px solid green;
+    display: flex;
+    border-radius: 20px;
+    margin-top: 15%;
+    width: 40%;
+    align-items: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    color: white;
+    background-color: green;
+}
+main{
+    padding-left: 3%;
+}
+.half{
+    background-image: url(./images/cash.jpg);
+    height: 700px;
+    width: 100;
+}
+.zip{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    padding: 4%;
+    border: 1px solid rgb(196, 190, 190);
+    background-color:rgb(253, 252, 249) ;
+    margin-left: 10%;
+    font-size: 20px;
+    width: 20%;
+}
+h6{
+    font-size: 29px;
+}
+.rim{
+    font-size: 18px;
+}
+article{
+    display: flex;
+    justify-content: center;
+    line-height: 0%;
+}
+ol{
+    color: rgb(233, 66, 5);
+    font-size: 20px;
+    margin-left: 33%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h5{
+    font-size: 37px;
+}
+.other{
+    font-size: 37px;
+    margin-left: 33%;
+}
+footer{
+    display: flex;
+}
+footer>.flexbox{
+    margin-left: 5%;
+
+}
+img{
+    width: 30%;
+    height: 90%;
+    padding: 10px;
+}
+.tongret{
+    display: flex;
+    margin: 10px;
+    height: 100%;
+    width: 67%;
+    padding: 20px;
+    margin-left: 16%;
+
+}
+.good{
+    background-color: wheat;
+    width: 50%;
+}
+.kam{
+    height: 60%;
+    margin-left: 5%;display: flex;
+    justify-content: center;
+    top: 0;
+}
+.ret{
+    color:rgb(233, 66, 5);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-left: 4%;
+}
+.kyen{
+    display: flex;
+    margin-left: 10%;
+
+}
+.ela{
+    border: 4px solid rgb(248, 110, 18);
+    background-color: rgb(248, 110, 18);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.lee{
+    margin-left: 4%;
+}
+.ben{
+    margin-left: 4%;
+}
+.tiana{
+    margin-left: 4%;
+}
+h6{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 4%;
+    line-height: 0;
+}
+.noro{
+    display: flex;
+    justify-content: center;
+    border: 1px solid green;
+    width: 27%;
+    align-items: center;
+    background-color: green;
+    color: white;
+    margin-top: 10%;
+    margin-left: 4%;
+    border-radius: 26px;
+    height: 8%;
+}
+.vet{
+    color:rgb(233, 66, 5);
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    margin-right: 4%;
+    padding-top: 15%;
+}
+.cash{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    display: flex;
+    line-height: 0;
+    justify-content: center;
+}
+.wrapper{
+    display: flex;
+    width: auto;
+    text-align: center;
+    justify-content: space-around;
+    padding-top: 3%;
+}
+.team{
+    background-color: whitesmoke;
+    color: black;
+    width: 20%;
+    border-radius: 2%;
+}
+.dev{
+    background-color: black;
+    color: white;
+    border-radius: 2%;
+    width: 20%;
+}
+.lead{
+    background-color: whitesmoke;
+    border-radius: 2%;
+    color: black;
+    width: 20%;
+}
+.fowl{
+    background-color: black;
+    width: 20%;
+    color: white;
+    border-radius: 2%;
+}
+.bill{
+   border: 1px solid white;
+   width: 50%;
+   margin-left: 24%;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   height: 40px;
+}
+.bill:hover{
+    background-color: orangered;
+    transition: 0.5s;
+}
+.dark:hover{
+    background-color: orangered;
+    transition: 0.5s;
+}
+.dark{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 24%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 40px
+}
+.yellow{
+    color: orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+.united{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.black{
+    background-color: black;
+    line-height: 0%;
+    height: 650px;
+}
+.sheila{
+    background-color: white;
+    height: 100px;
+    padding: 4%;
+    padding-top: 7px;
+}.nike{
+    background-color: wheat;
+    padding: 4%;
+    height: 100px;
+    padding-top: 7px;
+}
+.adidas{
+    background-color: orange;
+    height: 100px;
+    padding: 4%;
+    padding-top: 7px;
+}
+.chips{
+    color: black;
+    margin-left: 2%;
+    width: 70%;
+}
+.bag{
+    color: rgb(233, 66, 5);
+    margin-left: 2%;
+    font-size: 19px;
+}
+.charge{
+    margin-left: 2%;
+    line-height: 10px;
+    
+}
+.gas{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.lonley{
+    color: rgb(233, 66, 5);
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+    justify-content:center;
+    padding-top: 6%;
+}
+.numbers{
+    display: flex;
+    justify-content: space-around;
+}
+.pomade{
+    text-align: center;
+}
+.digit{
+   display: flex;
+   justify-content: center;
+   margin-left: 36%;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    width: 20%;
+}
+.same{
+    display: flex;
+    justify-content: center;
+}
+.digit:hover{
+    color: orangered;
+}
+.same:hover{
+    color: orangered;
+}
+.song{
+    color: orangered;
+    font-size: 18px;
+    margin-left: 4%;
+}
+.box{
+    color: black;
+    margin-left: 3%;
+}
+.oil{
+    margin-left: 3%;
+    line-height: 30px;
+    width: 100%;
+}
+.paper{
+    margin-left: 3%;
+    border: 1px solid black;
+    width: 100%;
+    height: 70px;
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+}
+.chinny{
+    margin-left: 4%;
+}
+.paper:hover{
+    color: white;
+    background-color: orangered;
+}
+.bed{
+    margin-left: 8%;
+    border: 4px solid rgb(248, 110, 18);
+    height: 600px;
+    background-color: rgb(248, 110, 18);
+}
+.dust{
+    display: flex;
+}
+.special{
+    display: flex;
+    border: 1px solid green;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+    background-color: green;
+}
+.coat{
+    height: 130px;
+    width: 70px;
+}
+.sweat{
+    background-color: black;
+    margin-right: 7%;
+    margin-left: 5%;
+}
+.switch{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}
+.bad{
+    line-height: 40px;
+}
+.bulb{
+    line-height: 40px;
+}
+.brush{
+    line-height: 25px;
+}
+hr{
+    color: gray;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.conc{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.zi{
+    color: white;
+    display: flex;
+    margin-bottom: 2%;
+    justify-content: center
+}
+.gig{
+    color: white;
+    border: 1px solid orangered;
+    display: flex;
+    background-color: orangered;
+    border-radius: 7%;
+    width: 50%;
+    margin-left: 24%;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+.benita{
+    width: 100%;
+    margin-left: 10%;
+    height: 100px;
+}
+.amen{
+    width: 40%;
+    height: 40px;
+    margin-right: 10%;
+    border: 1px solid black;
+    background-color: black;
+
+}
